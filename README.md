@@ -7,20 +7,20 @@ https://cloud.mail.ru/public/NtyK/Dgdck8fKT
 <hr/>
 <h2 align="center">Меню программы</h2>
 <p align="center">
-  <a href="123"><img src="https://github.com/kontr24/OperationsResearch/blob/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/MenuForm.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearch/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/MenuForm.png"><img src="https://github.com/kontr24/OperationsResearch/blob/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/MenuForm.png"></img></a>
 </p>
 <hr/>
 <h2 align="center">Oдноканальная СМО с очередью</h2>
 <p align="center">
-  <a href="123"><img src="https://github.com/kontr24/OperationsResearch/blob/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskOne.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearch/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskOne.png"><img src="https://github.com/kontr24/OperationsResearch/blob/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskOne.png"></img></a>
 </p>
 <hr/>
 <h2 align="center">Многоканальная СМО с неограниченной очередью</h2>
 <p align="center">
-  <a href="123"><img src="https://github.com/kontr24/OperationsResearch/blob/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskTwo.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearch/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskTwo.png"><img src="https://github.com/kontr24/OperationsResearch/blob/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskTwo.png"></img></a>
 </p>
 <hr/>
 <h2 align="center">Многоканальной СМО с ограниченной очередью</h2>
 <p align="center">
-  <a href="123"><img src="https://github.com/kontr24/OperationsResearch/blob/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskThree.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearch/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskThree.png"><img src="https://github.com/kontr24/OperationsResearch/blob/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskThree.png"></img></a>
 </p>
